@@ -5,3 +5,10 @@ header {
     border-bottom: 1px solid #CCCCCC;
     background-image: url("/web_static/images/logo.png");
 }
+
+.logo {
+    background: url("/images/logo.png") no-repeat;
+    background-position: left;
+    margin-left: 20px;
+    height: 100%;
+}
